@@ -1,0 +1,29 @@
+﻿# De Successione Fracta — .gitignore
+
+# Temporales Windows/Office
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.bak
+*.swp
+
+# Temporales macOS
+.DS_Store
+._*
+
+# Archivos pesados (usar Git LFS si es necesario)
+# Descomentar si se suben imágenes de alta resolución:
+# *.tif
+# *.tiff
+# *.psd
+
+# Seguridad
+*.env
+*.token
+*.log
+
+# Respaldos locales
+_BACKUP/
+_OLD/
