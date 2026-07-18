@@ -104,5 +104,9 @@ Indicar: afiliación institucional, línea de investigación y documentos espec�
 El contenido bibliográfico de este repositorio se publica con fines de transparencia académica. La reproducción del contenido sustantivo de la investigación requiere autorización expresa del autor.
 
 ---
+## Créditos
+
+Este proyecto se enmarca dentro de las líneas de investigación del [Instituto Hispánico de Estudios Documentales (IHED)](http://www.instituto-ihed.es/).
+
 
 *Última actualización: julio 2026 · DSF v13*
