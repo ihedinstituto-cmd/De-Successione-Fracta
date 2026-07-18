@@ -1,29 +1,63 @@
-﻿# De Successione Fracta — .gitignore
+# ══════════════════════════════════════════════════════
+#  De Successione Fracta — .gitignore
+#  Protección: impedir subida accidental de material
+#  de investigación al repositorio público.
+# ══════════════════════════════════════════════════════
 
-# Temporales Windows/Office
+# Documentos de trabajo (NUNCA subir)
+*.docx
+*.docm
+*.doc
+*.dotx
+*.xlsx
+*.pptx
+
+# PDFs de archivo y fuentes (NUNCA subir)
+*.pdf
+
+# Imágenes de manuscritos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.tiff
+*.tif
+*.bmp
+
+# Archivos comprimidos con material
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Correo y comunicaciones
+*.eml
+*.msg
+
+# Archivos de sistema
 Thumbs.db
-ehthumbs.db
-Desktop.ini
-~$*
-*.tmp
-*.bak
-*.swp
-
-# Temporales macOS
 .DS_Store
-._*
+desktop.ini
 
-# Archivos pesados (usar Git LFS si es necesario)
-# Descomentar si se suben imágenes de alta resolución:
-# *.tif
-# *.tiff
-# *.psd
+# Backups y temporales
+*~
+*.bak
+*.tmp
+*.swp
+*.old
 
-# Seguridad
-*.env
-*.token
-*.log
+# Carpetas de cuarentena y trabajo
+_CUARENTENA*/
+_LOGS*/
+__pycache__/
+.vs/
 
-# Respaldos locales
-_BACKUP/
-_OLD/
+# ══════════════════════════════════════════════════════
+#  PERMITIDO (lo que SÍ se sube):
+#  ✓ *.md (bibliografía, README, documentación)
+#  ✓ LICENSE
+#  ✓ .gitkeep (marcadores de estructura)
+#  ✓ .gitignore
+# ══════════════════════════════════════════════════════
