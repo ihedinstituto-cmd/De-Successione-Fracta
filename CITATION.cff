@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Si utiliza este repositorio en su investigación, cítelo como se indica a continuación."
+title: "De Successione Fracta: estructura documental y bibliográfica"
+abstract: "Andamiaje bibliográfico y estructural del ensayo histórico-documental De Successione Fracta (DSF), sobre la manipulación del testamento de Carlos II de España (1700). Incluye listados de fuentes primarias de archivo con signaturas verificables, bibliografía y catálogo prosopográfico. Obra registrada: RPI exp. 00765-03040358. Complemento académico de La Sucesión Rota (RPI asiento 00/2026/2028)."
+authors:
+  - family-names: "de T. y Salgado"
+    given-names: "Francisco José"
+    affiliation: "Instituto Hispánico de Estudios Documentales (IHED)"
+type: dataset
+version: "v13"
+date-released: "2026-07-18"
+url: "http://www.instituto-ihed.es/"
+repository-code: "https://github.com/ihedinstituto-cmd/De-Successione-Fracta"
+keywords:
+  - "Carlos II"
+  - "sucesión española"
+  - "testamento"
+  - "historia moderna"
+  - "fuentes primarias"
+  - "archivística"
+  - "prosopografía"
+license-url: "https://github.com/ihedinstituto-cmd/De-Successione-Fracta/blob/main/LICENSE"
