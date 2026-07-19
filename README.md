@@ -12,7 +12,7 @@
 
 **Francisco José de T. y Salgado**
 Director e investigador principal
-[Instituto Hispánico de Estudios Documentales (IHED)](https://instituto-ihed.es)
+[Instituto Hispánico de Estudios Documentales (IHED)](http://www.instituto-ihed.es/)
 CIF G26999912 · Registro Nacional 632890
 BNE acreditación nº 0360573
 
