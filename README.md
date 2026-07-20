@@ -1,112 +1,79 @@
-# De Successione Fracta
-
-**La manipulación del testamento de Carlos II y la conspiración francesa de cuarenta años (1661–1701)**
-
-[![RPI](https://img.shields.io/badge/RPI-exp.%2000765--03040358-blue)]()
-[![Archivos](https://img.shields.io/badge/Archivos%20consultados-11%20(4%20pa%C3%ADses)-green)]()
-[![Estado](https://img.shields.io/badge/Estado-Investigaci%C3%B3n%20activa-orange)]()
+<p align="center">
+  <strong>INSTITUTO HISPÁNICO DE ESTUDIOS DOCUMENTALES</strong><br>
+  <em>Veritas ex Archivis — Detegere Verum</em>
+</p>
 
 ---
 
-## Autor
+<p align="center">
+  <a href="https://github.com/ihedinstituto-cmd/De-Successione-Fracta/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/release-v0.1.0_(pre--release)-blue" alt="Release v0.1.0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-CC--BY--NC--ND--4.0-green" alt="Licencia"></a>
+  <a href="https://www.instituto-ihed.es/"><img src="https://img.shields.io/badge/web-instituto--ihed.es-1a3c6e" alt="Web IHED"></a>
+  <a href="CITATION.cff"><img src="https://img.shields.io/badge/citar-CITATION.cff-orange" alt="Citar"></a>
+</p>
 
-**Francisco José de T. y Salgado**
-Director e investigador principal
-[Instituto Hispánico de Estudios Documentales (IHED)](http://www.instituto-ihed.es/)
-CIF G26999912 · Registro Nacional 632890
-BNE acreditación nº 0360573
+---
 
-## Sinopsis
+# De Successione Fracta
 
-Este repositorio contiene la estructura documental y bibliográfica de *De Successione Fracta* (DSF), ensayo histórico-documental que demuestra, mediante triangulación de fuentes primarias de once archivos en cuatro países, que el testamento de Carlos II de España (1 de noviembre de 1700) fue el resultado de una operación de inteligencia francesa planificada durante cuarenta años.
+**Estructura documental y bibliográfica** que acompaña a *La Sucesión Rota* (LSR): aparato crítico, corpus documental y catálogo prosopográfico de los actores de la conspiración sucesoria española de 1700.
 
-La investigación se articula en torno a tres evidencias convergentes:
+> *La Sucesión Rota* documenta la hipótesis de una operación de inteligencia francesa de cuarenta años para manipular el testamento de Carlos II de España. Construida sobre fuentes primarias de más de veinte archivos internacionales.
 
-- **La Protestatio de Harrach** (AHN Toledo, Frías C.62, D.136): denuncia de nulidad procedimental del testamento.
-- **La confesión del Almirante de Castilla** (RAH 9-31-7-7000): «mudamos el testamento».
-- **La declaración de Leopoldo I**: «arraché à un roi demi-mort» (arrancado a un rey medio muerto).
+## Contenido del repositorio
 
-## Estructura
+| Carpeta | Descripción |
+|---|---|
+| `01_INTRODUCCION` | Marco metodológico y planteamiento de la investigación |
+| `02_CAP0_Estado_de_la_cuestion` | Corpus documental integrado, fuentes primarias y bibliografía secundaria |
+| `03_CAP1_El_Castrato` | Atto Melani: el espía-cantante de los Médicis en la corte española |
+| `04_CAP2_El_Bastardo_Real` | Juan José de Austria y la primera crisis sucesoria |
+| `05_CAP3_La_Reina` | Mariana de Austria y el veneno como instrumento político |
+| `06_CAP4_El_Nino` | José Fernando de Baviera: la muerte conveniente del heredero |
+| `07_CAP5_Los_Conjurados` | La red de cuarenta actores: de Portocarrero a Harcourt |
+| `08_CAP6_El_Testamento` | La firma del 2 de octubre de 1700 y la Real Orden de 28 de diciembre |
+| `09_CAP7_La_Purga` | Eliminación de testigos y el silencio después de la guerra |
 
-| Carpeta | Capítulo | Período |
-|---|---|---|
-| `01_INTRODUCCION` | Tesis central y metodología | — |
-| `02_CAP0` | Estado de la cuestión historiográfica | 1700–2026 |
-| `03_CAP1` | El Castrato que Sabía Demasiado | 1650–1714 |
-| `04_CAP2` | La Muerte del Bastardo Real | 1679 |
-| `05_CAP3` | La Reina que Gritó Veneno | 1683 |
-| `06_CAP4` | El Niño que Estorbaba | 1699 |
-| `07_CAP5` | La Red de los Conjurados | 1698–1700 |
-| `08_CAP6` | El Testamento Falsificado | 1 nov. 1700 |
-| `09_CAP7` | La Purga de los Testigos | Enero 1701 |
+## Registro de Propiedad Intelectual
+
+| Obra | Registro |
+|---|---|
+| *La Sucesión Rota* | RPI asiento `00/2026/2028` · efectos 25-II-2026 |
+| *De Successione Fracta* | RPI exp. `00765-03040358` |
+
+## Triángulo probatorio
+
+La investigación se sustenta en tres piezas documentales centrales:
+
+- **Protestatio Harrach** (AHN Toledo, Fondo Frías, C.62, D.136) — nulidad procedimental del testamento
+- **Confesión del Almirante de Castilla** (RAH 9-31-7-7000) — *«mudamos el testamento»*
+- **Declaración de Leopoldo I** — *«arraché à un roi demi-mort»*
 
 ## Archivos consultados
 
-### España
-- Archivo General de Simancas (AGS)
-- Archivo General de Palacio (AGP)
-- Archivo Histórico Nacional (AHN), Madrid y Toledo
-- Archivo Histórico de Protocolos de Madrid (AHPM)
-- Archivo Diocesano de Madrid (ADM)
-- Biblioteca Nacional de España (BNE)
-- Real Academia de la Historia (RAH)
+AGS · AHN · BNE · AGP · RAH · HHStA (Viena) · BayHStA (Múnich) · MAE (La Courneuve) · AAV (Vaticano) · ANTT (Lisboa) · AGR (Bruselas) · BL (Londres) · AN (París) — y otros
 
-### Francia
-- Archives du Ministère des Affaires Étrangères (AMAE), La Courneuve
-- Archives Nationales (AN), París
-- Bibliothèque Nationale de France (BNF)
-- Archives de la Guerre, Vincennes
+## Citar este repositorio
 
-### Italia
-- Archivio di Stato di Firenze (ASF)
-- Archivio Segreto Vaticano (ASV)
-- Archivio di Stato di Pistoia
+Este repositorio incluye un archivo [`CITATION.cff`](CITATION.cff) que habilita el botón **"Cite this repository"** de GitHub. Ejemplo en formato APA:
 
-### Austria
-- Haus-, Hof- und Staatsarchiv (HHStA), Viena
-- Bayerisches Hauptstaatsarchiv (BayHStA), Múnich
+> Talavera Salgado, F. J. (2026). *De Successione Fracta: Estructura documental y bibliográfica*. Instituto Hispánico de Estudios Documentales.
 
-## Qué contiene este repositorio
+## Acreditación
 
-Este repositorio público ofrece el **andamiaje bibliográfico y estructural** de la investigación:
-
-- Listados completos de fuentes primarias de archivo (con signaturas verificables)
-- Fuentes primarias publicadas
-- Bibliografía secundaria
-- Bibliografía metodológica
-- Corpus documental integrado
-- Catálogo prosopográfico de actores (*De Personis Principalibus*)
-- Nota sobre acceso a fuentes
-
-## Qué NO contiene
-
-Los documentos de trabajo, borradores de capítulos, transcripciones paleográficas y material pre-publicación **no están incluidos** en el repositorio público. El acceso a este material se concederá a investigadores acreditados previa solicitud.
-
-## Obra vinculada
-
-*De Successione Fracta* es el complemento académico de **La Sucesión Rota** (LSR), obra de divulgación histórica sobre el mismo tema, actualmente en evaluación editorial.
-
-- LSR — RPI asiento 00/2026/2028 (efectos 25-II-2026)
-- DSF — RPI exp. 00765-03040358
-
-## Solicitud de acceso
-
-Investigadores que deseen acceder al material restringido pueden contactar:
-
-📧 ihed@instituto-ihed.es
-
-Indicar: afiliación institucional, línea de investigación y documentos específicos de interés.
-
-## Licencia
-
-© 2026 Francisco José de T. y Salgado / IHED. Todos los derechos reservados.
-
-El contenido bibliográfico de este repositorio se publica con fines de transparencia académica. La reproducción del contenido sustantivo de la investigación requiere autorización expresa del autor.
+| | |
+|---|---|
+| **Institución** | Instituto Hispánico de Estudios Documentales (IHED) |
+| **CIF** | `G26999912` |
+| **Registro Nacional** | `632890` |
+| **Investigador** | Francisco José Talavera Salgado |
+| **BNE Investigador** | `0360573` (válido hasta 24/06/2030) |
+| **Sede** | Piélagos, Cantabria |
+| **Web** | [instituto-ihed.es](https://www.instituto-ihed.es/) |
+| **Contacto** | ihed@instituto-ihed.es |
 
 ---
-## Créditos
 
-Este proyecto se enmarca dentro de las líneas de investigación del [Instituto Hispánico de Estudios Documentales (IHED)](http://www.instituto-ihed.es/).
-
-
-*Última actualización: julio 2026 · DSF v13*
+<p align="center">
+  <em>© 2026 Instituto Hispánico de Estudios Documentales</em>
+</p>
