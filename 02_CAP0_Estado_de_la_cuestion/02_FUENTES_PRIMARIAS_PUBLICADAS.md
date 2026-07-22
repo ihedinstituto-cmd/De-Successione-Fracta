@@ -63,6 +63,16 @@ Cie, 1875.
 agentes tras la sucesión. Fuente primaria publicada esencial para las
 instrucciones y despachos del embajador francés.]
 
+MOREL-FATIO, Alfred y LÉONARDON, Henri. Recueil des Instructions données
+aux Ambassadeurs et Ministres de France depuis les traités de Westphalie
+jusqu’à la Révolution française. T. XII: Espagne, tomo segundo
+(1701-1722). París: Félix Alcan, 1898.
+
+[Instrucciones oficiales a los embajadores franceses en Madrid —
+Marcin, cardenal d’Estrées, abate d’Estrées, Blécourt, Louville.
+Documenta el cogobierno francés institucionalizado tras el testamento y
+su continuidad más allá de Utrecht.]
+
 MÉRODE-WESTERLOO, Jean-Philippe-Eugène, marqués de. Mémoires du
 feld-maréchal comte de Mérode-Westerloo. 2 vols. Bruselas: Jamar, 1840.
 

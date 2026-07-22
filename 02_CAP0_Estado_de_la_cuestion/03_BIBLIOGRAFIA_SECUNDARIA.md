@@ -95,6 +95,17 @@ pp. 196-249.
 
 Historia diplomática y militar
 
+WHEATON, Henry. Histoire des progrès du droit des gens en Europe et en
+Amérique depuis la paix de Westphalie jusqu’à nos jours. 3ª ed., t. I.
+Leipzig: F. A. Brockhaus, 1865.
+
+[Historia del derecho de gentes. Reproduce, vía Mignet, la versión
+oficial francesa de la sucesión española (testamento firmado «à l’insu
+de la cour de France»). Fuente secundaria — valor documental nulo hasta
+cotejo con Mignet y los despachos originales del AMAE; citable como
+ejemplo de la narrativa oficial que DSF/LSR contrasta con la evidencia
+primaria.]
+
 COXE, William. Memoirs of the Kings of Spain of the House of Bourbon,
 from the Accession of Philip V to the Death of Charles III, 1700-1788. 3
 vols. London: Longman, 1813.

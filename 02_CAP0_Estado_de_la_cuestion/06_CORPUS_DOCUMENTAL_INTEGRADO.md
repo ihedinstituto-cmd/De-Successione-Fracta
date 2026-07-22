@@ -272,6 +272,40 @@ Madrid-Roma.
 LSR/DSF. 9 cotejadas contra originales franceses. Correcciones
 aplicadas.
 
+IV bis. NUEVAS PIEZAS INCORPORADAS AL CORPUS — JULIO 2026 (v14)
+
+Material probatorio adicional, procesado en la sesión de trabajo del 22
+de julio de 2026 y depositado en `aparato_probatorio/`. Regla
+Tonini/Faiello vigente: las traducciones tienen valor instrumental y
+deben cotejarse con el original.
+
+  -------------------------------------------------------------------------
+  Documento                        Signatura                    Estado
+  --------------------------------  ----------------------------  ---------
+  Instrucción a d'Estrées (oct.     AMAE, Corr. d'Espagne, t.     Traducido,
+  1702)                             CIX, fol. 15-53               pendiente
+                                                                   cotejo
+
+  Instrucción a Blécourt (jul.      AMAE, Corr. d'Espagne, t.     Traducido,
+  1709)                             CXCII, fol. 73-77             pendiente
+                                                                   cotejo
+
+  Instrucción secreta a Louville    AMAE, Corr. d'Espagne, t.     Traducido,
+  (jun. 1716)                       CCLI, fol. 145-149            pendiente
+                                                                   cotejo
+
+  Despachos «duc de Caminiez»       AMAE CP Espagne 78 + Archives Extraído de
+  (1700)                            d'Harcourt L. 117             Hippeau II,
+                                                                   pendiente
+                                                                   La Courneuve
+
+  BnF Espagnol 270 (miscelánea s.   BnF, Dép. des Manuscrits,     Transcripción
+  XVIII)                            Espagnol 270                  parcial,
+                                                                   pendiente
+                                                                   fol.
+                                                                   56r-58v
+  -------------------------------------------------------------------------
+
 V. SIGNATURAS PENDIENTES DE CONFIRMAR E INCORPORAR
 
 1. Carta circular de Mariana de Neoburgo al Conde de Carlet, 1 de

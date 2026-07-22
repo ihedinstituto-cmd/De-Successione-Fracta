@@ -7,8 +7,8 @@ authors:
     given-names: "Francisco José"
     affiliation: "Instituto Hispánico de Estudios Documentales (IHED)"
 type: dataset
-version: "v13"
-date-released: "2026-07-18"
+version: "v14"
+date-released: "2026-07-22"
 url: "http://www.instituto-ihed.es/"
 repository-code: "https://github.com/ihedinstituto-cmd/De-Successione-Fracta"
 keywords:
