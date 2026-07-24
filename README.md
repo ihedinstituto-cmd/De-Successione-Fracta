@@ -1,79 +1,126 @@
-<p align="center">
-  <strong>INSTITUTO HISPÁNICO DE ESTUDIOS DOCUMENTALES</strong><br>
-  <em>Veritas ex Archivis — Detegere Verum</em>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/ihedinstituto-cmd/De-Successione-Fracta/releases/tag/v0.1.0"><img src="https://img.shields.io/badge/release-v0.1.0_(pre--release)-blue" alt="Release v0.1.0"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/licencia-CC--BY--NC--ND--4.0-green" alt="Licencia"></a>
-  <a href="https://www.instituto-ihed.es/"><img src="https://img.shields.io/badge/web-instituto--ihed.es-1a3c6e" alt="Web IHED"></a>
-  <a href="CITATION.cff"><img src="https://img.shields.io/badge/citar-CITATION.cff-orange" alt="Citar"></a>
-</p>
-
----
-
 # De Successione Fracta
 
-**Estructura documental y bibliográfica** que acompaña a *La Sucesión Rota* (LSR): aparato crítico, corpus documental y catálogo prosopográfico de los actores de la conspiración sucesoria española de 1700.
+**Aparato crítico y corpus documental sobre la crisis sucesoria de la Monarquía Hispánica (1661–1701)**
 
-> *La Sucesión Rota* documenta la hipótesis de una operación de inteligencia francesa de cuarenta años para manipular el testamento de Carlos II de España. Construida sobre fuentes primarias de más de veinte archivos internacionales.
+[![DOI](https://img.shields.io/badge/RPI-00765--03040358-blue)]()
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![Version](https://img.shields.io/badge/version-v0.1.0--pre--release-orange)]()
+[![Estado](https://img.shields.io/badge/estado-en%20evaluación%20editorial-yellow)]()
 
-## Contenido del repositorio
+---
 
-| Carpeta | Descripción |
-|---|---|
-| `01_INTRODUCCION` | Marco metodológico y planteamiento de la investigación |
-| `02_CAP0_Estado_de_la_cuestion` | Corpus documental integrado, fuentes primarias y bibliografía secundaria |
-| `03_CAP1_El_Castrato` | Atto Melani: el espía-cantante de los Médicis en la corte española |
-| `04_CAP2_El_Bastardo_Real` | Juan José de Austria y la primera crisis sucesoria |
-| `05_CAP3_La_Reina` | Mariana de Austria y el veneno como instrumento político |
-| `06_CAP4_El_Nino` | José Fernando de Baviera: la muerte conveniente del heredero |
-| `07_CAP5_Los_Conjurados` | La red de cuarenta actores: de Portocarrero a Harcourt |
-| `08_CAP6_El_Testamento` | La firma del 2 de octubre de 1700 y la Real Orden de 28 de diciembre |
-| `09_CAP7_La_Purga` | Eliminación de testigos y el silencio después de la guerra |
+## Descripción
 
-## Registro de Propiedad Intelectual
+*De Successione Fracta* (DSF) es el acompañamiento académico de [*La Sucesión Rota*](https://www.instituto-ihed.es) (LSR): contiene el aparato crítico completo, el corpus documental y el catálogo prosopográfico de los actores implicados en la manipulación del testamento de Carlos II de España (1700).
 
-| Obra | Registro |
-|---|---|
-| *La Sucesión Rota* | RPI asiento `00/2026/2028` · efectos 25-II-2026 |
-| *De Successione Fracta* | RPI exp. `00765-03040358` |
+La tesis central descansa sobre un **triángulo probatorio** formado por tres documentos de tres archivos de tres países distintos:
 
-## Triángulo probatorio
+| Vértice | Documento | Archivo | Signatura |
+|---------|-----------|---------|-----------|
+| I | **Protestatio Harrach** — Protesta formal del embajador imperial | AHN Toledo, Nobleza | Frías, C.62, D.136 |
+| II | **Confesión del Almirante de Castilla** — «mudamos el testamento» | RAH Madrid | 9/7000(14), 29-X-1702 |
+| III | **Declaración de Leopoldo I** — «arraché à un roi demi-mort et notoirement incapable» | AMAÉ París | Supplément 1701 |
 
-La investigación se sustenta en tres piezas documentales centrales:
+Tres actores independientes — el embajador imperial, un conspirador arrepentido y el Emperador — convergen en una misma conclusión: el testamento fue manipulado.
 
-- **Protestatio Harrach** (AHN Toledo, Fondo Frías, C.62, D.136) — nulidad procedimental del testamento
-- **Confesión del Almirante de Castilla** (RAH 9-31-7-7000) — *«mudamos el testamento»*
-- **Declaración de Leopoldo I** — *«arraché à un roi demi-mort»*
+---
+
+## Estructura del repositorio
+
+```
+De-Successione-Fracta/
+├── Cap_00_Introduccion/
+├── Cap_01_Antecedentes/
+├── Cap_02_Instrucciones/
+├── Cap_03_Harcourt/
+├── Cap_04_Testamento/
+├── Cap_05_Grimaldi/
+├── Cap_06_Protestatio/
+├── Cap_07_Almirante/
+├── Cap_08_Consecuencias/
+├── Cap_09_Conclusiones/
+├── outputs/
+├── CITATION.cff
+├── LICENSE
+└── README.md
+```
+
+Cada carpeta de capítulo contiene las fuentes primarias transcritas, las notas críticas y la bibliografía específica correspondiente.
+
+---
+
+## Obra complementaria
+
+| Obra | Registro | Estado |
+|------|----------|--------|
+| *La Sucesión Rota* (LSR) | RPI asiento 00/2026/2028, efectos 25-II-2026 | En evaluación editorial |
+| *De Successione Fracta* (DSF) | RPI exp. 00765-03040358 | En evaluación editorial |
+| *El Cardenal Portocarrero* | RPI exp. 00765-03039969, 11-II-2026 | En preparación |
+
+---
 
 ## Archivos consultados
 
-AGS · AHN · BNE · AGP · RAH · HHStA (Viena) · BayHStA (Múnich) · MAE (La Courneuve) · AAV (Vaticano) · ANTT (Lisboa) · AGR (Bruselas) · BL (Londres) · AN (París) — y otros
+El proyecto se sustenta en la consulta directa de fondos originales en más de veinte depósitos documentales:
 
-## Citar este repositorio
+**España** — AGS · AHN · BNE · AGP · RAH · AHDM
 
-Este repositorio incluye un archivo [`CITATION.cff`](CITATION.cff) que habilita el botón **"Cite this repository"** de GitHub. Ejemplo en formato APA:
+**Francia** — AMAÉ (La Courneuve)
 
-> Talavera Salgado, F. J. (2026). *De Successione Fracta: Estructura documental y bibliográfica*. Instituto Hispánico de Estudios Documentales.
+**Austria** — HHStA (Viena) · AVA
 
-## Acreditación
+**Alemania** — BayHStA (Múnich)
 
-| | |
-|---|---|
-| **Institución** | Instituto Hispánico de Estudios Documentales (IHED) |
-| **CIF** | `G26999912` |
-| **Registro Nacional** | `632890` |
-| **Investigador** | Francisco José Talavera Salgado |
-| **BNE Investigador** | `0360573` (válido hasta 24/06/2030) |
-| **Sede** | Piélagos, Cantabria |
-| **Web** | [instituto-ihed.es](https://www.instituto-ihed.es/) |
-| **Contacto** | ihed@instituto-ihed.es |
+**Italia** — AAV (Vaticano) · Archivio di Stato di Pistoia
+
+**Portugal** — ANTT (Lisboa)
+
+**Bélgica** — AGR (Bruselas)
+
+**Reino Unido** — BL · TNA (Londres)
 
 ---
 
-<p align="center">
-  <em>© 2026 Instituto Hispánico de Estudios Documentales</em>
-</p>
+## Metodología
+
+El proyecto aplica la **regla Tonini/Faiello**: todo contenido generado por herramientas de inteligencia artificial tiene valor documental cero hasta su verificación contra la fuente primaria original. Cada afirmación del corpus es trazable hasta un manuscrito identificado por signatura archivística completa.
+
+---
+
+## Citar este repositorio
+
+```bibtex
+@misc{talavera2026dsf,
+  author       = {Talavera Salgado, Francisco José},
+  title        = {De Successione Fracta: aparato crítico y corpus documental
+                  sobre la crisis sucesoria de la Monarquía Hispánica (1661–1701)},
+  year         = {2026},
+  publisher    = {Instituto Hispánico de Estudios Documentales (IHED)},
+  howpublished = {\url{https://github.com/ihedinstituto-cmd/De-Successione-Fracta}},
+  note         = {RPI exp. 00765-03040358}
+}
+```
+
+También disponible a través del botón **Cite this repository** de GitHub (configurado vía `CITATION.cff`).
+
+---
+
+## Licencia
+
+Este repositorio está protegido bajo [Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Las transcripciones paleográficas de documentos históricos se ofrecen como herramienta de investigación. Los documentos originales pertenecen a sus respectivas instituciones archivísticas.
+
+---
+
+## Contacto
+
+**Francisco José Talavera Salgado**
+Director, Instituto Hispánico de Estudios Documentales (IHED)
+CIF G26999912 · Registro Nacional 632890
+BNE Investigador nº 0360573
+
+📧 [ihed@instituto-ihed.es](mailto:ihed@instituto-ihed.es)
+🌐 [www.instituto-ihed.es](https://www.instituto-ihed.es)
+
+Piélagos, Cantabria — España
